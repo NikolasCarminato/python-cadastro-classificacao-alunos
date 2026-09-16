@@ -329,7 +329,7 @@ Algumas melhorias que podem ser implementadas:
 
 # 👨‍💻 Autor
 
-Desenvolvido por **Pedro**
+Desenvolvido por **Nikolas Carminato**
 
 Projeto acadêmico desenvolvido durante o curso de:
 
